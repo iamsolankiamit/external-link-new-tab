@@ -1,0 +1,27 @@
+{
+  "name": "external-link-new-tab",
+  "version": "1.0.0",
+  "description": "Opens link in new tab, via function call.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iamsolankiamit/external-link-new-tab.git"
+  },
+  "keywords": [
+    "external",
+    "link",
+    "new",
+    "tab",
+    "open",
+    "javascript"
+  ],
+  "author": "iamsolankiamit",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/iamsolankiamit/external-link-new-tab/issues"
+  },
+  "homepage": "https://github.com/iamsolankiamit/external-link-new-tab#readme"
+}
