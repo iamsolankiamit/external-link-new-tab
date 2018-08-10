@@ -13,7 +13,7 @@ $ npm install external-link-new-tab --save
 ## Usage
 
 ```js
-import openInNewTab from 'external-link-new-tab';
+import { openInNewTab } from 'external-link-new-tab';
 
 openInNewTab("https://solankiamit.com")
 ```

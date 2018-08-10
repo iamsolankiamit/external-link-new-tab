@@ -1,6 +1,6 @@
 {
   "name": "external-link-new-tab",
-  "version": "1.1.0",
+  "version": "1.1.2",
   "description": "Opens link in new tab, via function call.",
   "main": "index.js",
   "scripts": {
